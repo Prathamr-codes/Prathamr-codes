@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="pviews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRATHAM-099&style=flat&color=blue" height="20px" width="110px" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=Prathamr-codes&style=flat&color=blue" height="20px" width="110px" align="center"/>
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 <div align="center">
   <h1> STATS </h1>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRATHAM-099&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamr-codes&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
   
@@ -64,7 +64,7 @@
 <div align="center">
   <h1> STREAK </h1>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PRATHAM-099&theme=transparent)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prathamr-codes&theme=transparent)](https://git.io/streak-stats)
   
 </div>
   
@@ -72,6 +72,6 @@
 <div align="center">  
   <h1> TOP LANGUAGES USED </h1>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-099&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamr-codes&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
