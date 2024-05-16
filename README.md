@@ -2,6 +2,7 @@
   <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="275" height="200"/>
 </div>
 
+<br>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/pratham-rathod-a00846241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px" width="120px" alt="LinkedIn Badge"/>
@@ -17,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Prathamr-codes&style=flat&color=blue" height="20px" width="110px" align="center"/>
 </div>
 
-<br>
 <div align="center">
   <h1> ABOUT ME </h1>
 
