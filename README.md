@@ -27,11 +27,14 @@ Hi there! 👋 I'm Pratham Rathod, a passionate developer with a keen interest i
 ## About Me
 
 🔭 I’m currently working on java based projects 🔭
+
 🌱 I’m learning Java and DSA 🌱
+
 💬 You may ask me about my personal projects, java, DSA or anything about web development 💬
+
 :computer: Code as poetry be brief and concise :computer:
 
-Let's build something amazing together!
+🤝 Let's build something amazing together! 🤝
 </div>
 
 <br>
@@ -56,7 +59,7 @@ Let's build something amazing together!
 <div align="center">
   <h1> STATS </h1>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamr-codes&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Prathams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamr-codes&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
   
@@ -64,7 +67,7 @@ Let's build something amazing together!
 <div align="center">
   <h1> STREAK </h1>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prathamr-codes&theme=transparent)](https://git.io/streak-stats)
+  [![Prathams's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prathamr-codes&theme=transparent)](https://git.io/streak-stats)
   
 </div>
   
