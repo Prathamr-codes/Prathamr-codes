@@ -4,14 +4,14 @@
 
 <br>
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/pratham-rathod-a00846241">
+   <a href="https://www.linkedin.com/in/prathamr-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px" width="120px" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://twitter.com/Pratham_099">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
+  <a href="https://www.freecodecamp.org/Pratham-99">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=flat&logo=freeCodeCamp&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.facebook.com/rathod.pratham.73/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
+   <a href="https://twitter.com/Pratham_Codes">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="pviews" align="center">
@@ -20,18 +20,18 @@
 
 <div align="center">
   <h1> ABOUT ME </h1>
+# Welcome to My GitHub Profile!
 
-  :raising_hand_man: I'm Pratham. It's nice to have you on my profile :raising_hand_man:
+Hi there! 👋 I'm Pratham Rathod, a passionate developer with a keen interest in web devlopement. I love solving problems, learning new technologies, and contributing to open-source projects. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
 
-  🎓 Currently final year undergrad pursuing the BCA degree 🎓
+## About Me
 
-  :calendar: It's been 20 years and I love the way life is treating me :calendar:
+🔭 I’m currently working on java based projects 🔭
+🌱 I’m learning Java and DSA 🌱
+💬 You may ask me about my personal projects, java, DSA or anything about web development 💬
+:computer: Code as poetry be brief and concise :computer:
 
-  :sparkles: My life has presented me with the beautiful moments to smile about and the worst ones to learn :sparkles:
-
-  :man_technologist: Working on some personal projects :man_technologist:
-
-  :computer: Code as poetry be brief and concise :computer:
+Let's build something amazing together!
 </div>
 
 <br>
