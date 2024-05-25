@@ -19,10 +19,10 @@
 </div>
 
 <div align="center">
-  <h1> ABOUT ME </h1>
+  
 # Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm Pratham Rathod, a passionate developer with a keen interest in web devlopement. I love solving problems, learning new technologies, and contributing to open-source projects. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
+Hi there! 👋 I'm <b>Pratham Rathod</b>, a passionate developer with a keen interest in web devlopement. I love solving problems, learning new technologies, and contributing to open-source projects. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
 
 ## About Me
 
