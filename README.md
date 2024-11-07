@@ -64,6 +64,6 @@
 
 <div align="center">  
   <h1> IMPORTANT REPOSITORIES </h1>
-  <a href="https://github.com/Prathamr-codes/Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=java&show_owner=true&show_icons=true&theme=transparent" height="50%" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Prathamr-codes/Gemini-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=Gemini-API&show_owner=true&show_icons=true&theme=transparent" height="50%" /></a>
+  <a href="https://github.com/Prathamr-codes/Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=java&show_owner=true&show_icons=true&theme=transparent" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Prathamr-codes/Gemini-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=Gemini-API&show_owner=true&show_icons=true&theme=transparent" /></a>
 </div>
