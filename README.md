@@ -49,8 +49,8 @@
 
 <div align="center" >
   <h1> STATS | STREAK</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathamr-codes&show_icons=true&theme=transparent&count_private=true" height="200vw" />&nbsp;&nbsp;
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prathamr-codes&theme=transparent" height="200vw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamr-codes&show_icons=true&theme=transparent&count_private=true" height="150" />&nbsp;&nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prathamr-codes&theme=transparent" height="150" />
 </div>
 
 <br>
