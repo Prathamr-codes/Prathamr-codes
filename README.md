@@ -1,7 +1,7 @@
 <!--https://github.com/LelouchFR/skill-icons?tab=readme-ov-file-->
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="390" height="300"/>
+  <img src="banner.png" heigth="100%" />
 </div>
 
 <br>
