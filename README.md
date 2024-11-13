@@ -24,17 +24,17 @@
   
 # WELCOME TO MY GITHUB PROFILE!
 
-### Hi there! 👋 I'm <b>Pratham Rathod</b>, a passionate developer with a keen interest in web development. I love solving problems, learning new technologies, and contributing to open-source projects. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
+<p>Hi there! 👋 I'm <b>Pratham Rathod</b>, a passionate developer with a keen interest in web development. I love solving problems, learning new technologies, and contributing to open-source projects. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!</p>
 
 # ABOUT ME
 
-### 🔭 I’m currently working on java based projects 🔭
+<p>🔭 I’m currently working on java based projects 🔭</p>
 
-### 🌱 I’m learning Java and DSA 🌱
+<p>🌱 I’m learning Java and DSA 🌱</p>
 
-### 💬 You may ask me about my personal projects, java, DSA or anything about web development 💬
+<p>💬 You may ask me about my personal projects, java, DSA or anything about web development 💬</p>
 
-### 🤝 Let's build something amazing together! 🤝
+<p>🤝 Let's build something amazing together! 🤝</p>
 </div>
 
 <br>
