@@ -64,7 +64,7 @@
 <br>
 
 <div align="center">
-  <h1>TOOLS | TECHNOLOGIES |DATABASES</h1>
+  <h1>TOOLS | TECHNOLOGIES | DATABASES</h1>
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" height="55" alt="icons"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio&theme=dark" height="55" alt="icons"/>
